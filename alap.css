@@ -11,10 +11,14 @@ main{
     "n n"
     "ar ar"
     "f f";
-	
+    
 	margin: 0px 100px;
 }
 header{grid-area:h;}
 nav{grid-area: n;}
 article{grid-area:ar ;}
 footer{grid-area: f;}
+body{
+    background-color: #F0E68C;
+    color:brown
+}
